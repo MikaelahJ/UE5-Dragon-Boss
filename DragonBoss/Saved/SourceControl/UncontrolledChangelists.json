@@ -89,7 +89,27 @@
 				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/6/2T/MPRCT0BCVY03W7FXH88MXM.uasset",
 				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/B/EE/33ALSFJUI5YKZIHBOMS6WB.uasset",
 				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/C/CR/LXAO6G3SCPFUPKX7GG1H72.uasset",
-				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Maps/BossLevel.umap"
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Maps/BossLevel.umap",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/BluePrints/DragonAI_BP.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Animations/DragonAnim_AnimBP.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/BluePrints/AmmoSpawner_BP.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/BluePrints/AmmoBox_BP.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/3/LV/BL7OAGHFIAZ56E0AD3BK6K.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/3/R1/RY50JPN1BPP7KUBJP50YQ2.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/6/02/7WEW8V86DQ8O1EL7Q8BYME.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/E/O9/AJAJLIVS7R57J68JCR4VJ2.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/A/6X/8Q27L1AX7UY50UZ1QUE44D.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/4/1C/Q55PRH1IL2MMGITR8788MD.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/D/TR/4YNTKFXFWQOL2IT3FJJEYY.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/4/JR/Y29CDPSSKMG8O9DYN7FRE2.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/7/I5/BR24TLXWS2AUY5TQPYB7B4.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/6/14/PER58GCTJDY1XUE3JB7J89.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/4/2K/OUHBCOM312KRB51QCHTI02.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Animations/DragonFlyingBlendSpace1D.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Animations/DragonBlendSpace1D.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Animations/DragonFirstAnimBlendSpace.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Animations/BeginningAnim_Montage.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Animations/SpitFire_Montage.uasset"
 			]
 		}
 	]
