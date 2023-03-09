@@ -3585,3 +3585,858 @@ GroupActor
 [2023.03.09-13.20.52:726][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.58 sec (total: 5.32 sec)
 [2023.03.09-13.20.52:734][440]AssetCheck: New page: Asset Save: PlayerBoxTransparent
 [2023.03.09-13.20.52:734][440]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/PlayerBoxTransparent.PlayerBoxTransparent
+[2023.03.09-13.21.32:904][950]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vb1macxfa/S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1.S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1
+[2023.03.09-13.21.32:974][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.21.33:253][950]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.21.48:957][843]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Maps/BossLevel.BossLevel:PersistentLevel.RecastNavMesh_UAID_5081409ABB5FA76B01-Default).
+[2023.03.09-13.21.57:248][332]Cmd: TRANSACTION UNDO
+[2023.03.09-13.21.57:248][332]LogEditorTransaction: Undo Create Convex Collision
+[2023.03.09-13.22.00:547][494]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Maps/BossLevel.BossLevel:PersistentLevel.RecastNavMesh_UAID_5081409ABB5FA76B01-Default).
+[2023.03.09-13.22.03:853][685]LogEditorTransaction: Undo Create Convex Collision
+[2023.03.09-13.22.19:027][555]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Maps/BossLevel.BossLevel:PersistentLevel.RecastNavMesh_UAID_5081409ABB5FA76B01-Default).
+[2023.03.09-13.23.21:352][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.23.21:438][174]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vb1macxfa/S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1
+[2023.03.09-13.23.21:439][174]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Huge_Canyon_Sandstone_Cliff_vb9A02D2694D3BF9C568631E8D317451F4.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vb1macxfa/S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1.uasset'
+[2023.03.09-13.23.21:445][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 5.42 sec)
+[2023.03.09-13.23.21:455][174]AssetCheck: New page: Asset Save: S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1
+[2023.03.09-13.23.21:455][174]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vb1macxfa/S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1.S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1
+[2023.03.09-13.23.30:438][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.23.30:516][710]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vb1macxfa/S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1
+[2023.03.09-13.23.30:517][710]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Huge_Canyon_Sandstone_Cliff_vb929E176B4E1B5061EF3CC78550300220.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vb1macxfa/S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1.uasset'
+[2023.03.09-13.23.30:526][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.50 sec)
+[2023.03.09-13.23.30:533][710]AssetCheck: New page: Asset Save: S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1
+[2023.03.09-13.23.30:533][710]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vb1macxfa/S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1.S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1
+[2023.03.09-13.23.32:021][799]LogSlate: Window 'S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1' being destroyed
+[2023.03.09-13.23.32:054][799]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.23.32:054][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.23.36:830][ 83]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.09-13.23.36:836][ 83]LogContentBundle: [Container: BossLevel] Generating Streaming for 0 Content Bundles.
+[2023.03.09-13.23.36:840][ 83]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.09-13.23.36:840][ 83]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.09-13.23.36:840][ 83]LogWorldPartition: Display: GetPartitionedActors took 47 us (total: 432 us)
+[2023.03.09-13.23.36:996][ 83]LogWorldPartition: Display: GenerateStreaming took 156 ms (total: 1.45 sec)
+[2023.03.09-13.23.36:998][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.09-13.23.36:998][ 83]PIE: New page: PIE session: BossLevel (9 mars 2023 15:23:36)
+[2023.03.09-13.23.36:998][ 83]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BossLevel
+[2023.03.09-13.23.37:015][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017973s)
+[2023.03.09-13.23.37:015][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BossLevel.BossLevel to /Game/Maps/UEDPIE_0_BossLevel.BossLevel (0.017998s)
+[2023.03.09-13.23.37:015][ 83]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.23.37:016][ 83]LogAIModule: Creating AISystem for world BossLevel
+[2023.03.09-13.23.37:016][ 83]LogWorldPartition: ULevel::OnLevelLoaded(BossLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.09-13.23.37:016][ 83]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.09-13.23.37:016][ 83]LogWorldPartition: UWorldPartition::Initialize(Asset=BossLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.09-13.23.37:020][ 83]LogContentBundle: [Container: BossLevel] Creating new contrainer.
+[2023.03.09-13.23.37:020][ 83]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 2.10 sec)
+[2023.03.09-13.23.37:020][ 83]LogPlayLevel: PIE: World Init took: (0.004935s)
+[2023.03.09-13.23.37:045][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.03.09-13.23.37:055][ 83]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.03.09-13.23.37:055][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.09-13.23.37:055][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.09-13.23.37:055][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.09-13.23.37:055][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.09-13.23.37:055][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.09-13.23.37:055][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.09-13.23.37:055][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.09-13.23.37:055][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.09-13.23.37:056][ 83]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.09-13.23.37:056][ 83]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.09-13.23.37:056][ 83]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.09-13.23.37:058][ 83]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.09-13.23.37:222][ 83]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.03.09-13.23.37:222][ 83]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.09-13.23.37:222][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.09-13.23.37:222][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.09-13.23.37:223][ 83]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.03.09-13.23.37:223][ 83]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.03.09-13.23.37:225][ 83]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.03.09-13.23.37:225][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.03.09-13.23.37:225][ 83]LogInit: FAudioDevice initialized.
+[2023.03.09-13.23.37:225][ 83]LogAudio: Display: Audio Device (ID: 10) registered with world 'BossLevel'.
+[2023.03.09-13.23.37:228][ 83]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.09-13.23.37:229][ 83]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 60) at 2023.03.09-14.23.37
+[2023.03.09-13.23.37:229][ 83]LogWorld: Bringing up level for play took: 0.000976
+[2023.03.09-13.23.37:231][ 83]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.03.09-13.23.37:233][ 83]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=660.000 Y=11850.000 Z=360.000
+[2023.03.09-13.23.37:233][ 83]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(39), CellsToLoad(0), CellsToUnload(0)
+[2023.03.09-13.23.37:233][ 83]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=660.000 Y=11850.000 Z=360.000,P=0.000000 Y=169.999999 R=-0.000000
+[2023.03.09-13.23.37:236][ 83]LogStreaming: Display: FlushAsyncLoading(-1): 124 QueuedPackages, 0 AsyncPackages
+[2023.03.09-13.23.37:424][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_1_2_0 encountered when not using actor folders
+[2023.03.09-13.23.37:424][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_1_3_0 encountered when not using actor folders
+[2023.03.09-13.23.37:424][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_0_3_0 encountered when not using actor folders
+[2023.03.09-13.23.37:424][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_0_2_0 encountered when not using actor folders
+[2023.03.09-13.23.37:431][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_0_0_0 encountered when not using actor folders
+[2023.03.09-13.23.37:431][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_0_1_0 encountered when not using actor folders
+[2023.03.09-13.23.37:431][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_1_0_0 encountered when not using actor folders
+[2023.03.09-13.23.37:431][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_1_1_0 encountered when not using actor folders
+[2023.03.09-13.23.37:435][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_2_0_0 encountered when not using actor folders
+[2023.03.09-13.23.37:435][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_3_1_0 encountered when not using actor folders
+[2023.03.09-13.23.37:435][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_2_1_0 encountered when not using actor folders
+[2023.03.09-13.23.37:435][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_3_0_0 encountered when not using actor folders
+[2023.03.09-13.23.37:462][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_3_2_0 encountered when not using actor folders
+[2023.03.09-13.23.37:462][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_2_3_0 encountered when not using actor folders
+[2023.03.09-13.23.37:462][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_2_2_0 encountered when not using actor folders
+[2023.03.09-13.23.37:462][ 83]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_3_3_0 encountered when not using actor folders
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/F/4X/M49SG7XXJANGXU4DIAP4PO.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/R7/RJY77DKGXAETYGRC1ZRDLP.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/O0/4S87489Q3YIK2FCUUT0N6Q.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/NH/J5Y633SCUZ0XF84KMPZKCM.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/H4/HAD1BCLDO41BI8AIF7PD0Q.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/6G/APMKQIT3KSPIQNJN1ARAO4.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/56/1AD8P9QH3YG6X7A2L278X3.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/4O/9K3733FZDH2Q14WWYNDUXX.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/SR/YKPS8T9DFIV1P45EVCXFEO.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/Q2/2S1Z3Q1D5BNSQ21JECVK3L.StaticMesh_BossLevel_HLOD0_Instancing_7 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/Q2/2S1Z3Q1D5BNSQ21JECVK3L.StaticMesh_BossLevel_HLOD0_Instancing_6 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/Q2/2S1Z3Q1D5BNSQ21JECVK3L.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/Q2/2S1Z3Q1D5BNSQ21JECVK3L.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/3X/FI1R6U9KTB08IH9AS54CNQ.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/TV/QM8A7G9H62DYN5YXLVMVW3.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/N0/GZZ124H2HF8TSDSVWG7NL0.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/MY/HTE0430FYHUW647QJA047Q.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/9M/2PWBIBOVM5OC5IPFBUU41Z.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/91/JJVIT2PZIJBZWI83UEWC4Z.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/B/VQ/NBDSPZPHXNP3W2N2DQC4OP.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/B/TG/039JC8VMKLE4UMQGDQA0M9.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/B/JN/XPEMVJD6KBPCFDF16KW4HP.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/YD/H8W6QRGAK41YAPPZPZ9GB8.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/J2/K8HXPLZW9XLGV138Y1A1QX.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/2H/VS0KZ73GKQWGL03QNNNUQX.StaticMesh_BossLevel_HLOD0_Instancing_7 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/2H/VS0KZ73GKQWGL03QNNNUQX.StaticMesh_BossLevel_HLOD0_Instancing_6 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/2H/VS0KZ73GKQWGL03QNNNUQX.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/2H/VS0KZ73GKQWGL03QNNNUQX.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/ZH/HZPSW1RCO7FTXRAJM8M7FN.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/OZ/8K9P511QQXKEVHO0BAJJEA.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/N4/AA3F491SKK69BCBDGJVS2P.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/1G/DCZNI3ZK1QEQBDN9G6X1NB.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/1E/KIRBO795KH8G1ZS4E9AFDX.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/Y4/THJUYWCLF6IQ0XA01FLPD8.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/UW/2J2R1KBIPDBKRP7PALB1KH.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/U0/FIJIMG5DR54M33YEUVX8HB.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/RM/F66RVZ0CMCGGOUBR4SJ89M.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/GO/SH74KQYC34BRU3C82ZL8NN.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/FB/9Z92308LAXIE0YOZYNMUOB.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/CR/XIMX2PK5P0G04FYTAS4DXS.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/8R/PQ565DFBVJQADZGJ175B3W.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/6/TB/JO4NO0QSXIN5JDU4OEY1FG.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/6/R2/VSYNII98QENIWEZMNBBCWH.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/6/2W/NQXL2IQGEWC6E9HS92FM1V.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/5/8L/YC4OZWNCQTTFSUPCLIWYBV.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/4/L2/TG99V6Q3FTE0UM4OAHAC30.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/4/K7/0KW7TA7MAI1R270YNEF9TN.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/4/3K/BFGHBUIDCPMSKCFIPMESA6.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/4/08/TU2G7PYC5TWW251I62RQ4U.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/3/UD/A4GPD7F9KISFJW2Z8E63ZK.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/3/U9/ERZ6JGHH2D991OJ1OH7WB9.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/3/BR/DJA5TJNDWLI7EX76QOZQNK.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/3/8Z/MQC4MI80WJVKG9920IWRHF.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/WR/Y7I54U4J150MS350DBMOYE.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/IS/9AHCLMHR4HC9KP8O24ULZ0.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/6C/4766G8PTV5LF38U6RGPN91.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/4N/ZKAWURX7ROTNRNHI2GAF2S.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/2C/N97UMJJBH9DGK5DRJ5FQ9K.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/VY/7NGP6WDF6C380DZH44N7EM.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/MG/61SFKP2YGMMR9DPI7FP5TF.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/KW/Q56ASYII87BF6SESMVHFW8.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/I4/OO8VVXMZIJ54ZNZL5RBROO.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/I4/OO8VVXMZIJ54ZNZL5RBROO.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/I4/OO8VVXMZIJ54ZNZL5RBROO.StaticMesh_BossLevel_HLOD0_Instancing_3 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/FV/FGPKTMDTM8D7RG0C6QOUTL.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/FV/FGPKTMDTM8D7RG0C6QOUTL.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/FV/FGPKTMDTM8D7RG0C6QOUTL.StaticMesh_BossLevel_HLOD0_Instancing_3 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/F2/MZI5O79CP6M7UFE9IO946P.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/CU/BXOZ8PL4X3GW03AE4VVYNN.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/ZK/WHNH78UN3FDQTNENI9J3MD.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/Y1/5XSX4E98GGRMW4YLOJ3O53.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/Y1/5XSX4E98GGRMW4YLOJ3O53.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/Y1/5XSX4E98GGRMW4YLOJ3O53.StaticMesh_BossLevel_HLOD0_Instancing_3 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/VD/4GLV5SCAC5ZX54E93X01Z4.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/VD/4GLV5SCAC5ZX54E93X01Z4.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/VD/4GLV5SCAC5ZX54E93X01Z4.StaticMesh_BossLevel_HLOD0_Instancing_3 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/TW/2WWXJGUR6MAICLQEBDWPYH.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:644][ 83]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/JM/Y3052KK8R3ODN55K6HHH1O.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: ================================================
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Total job queries 679, among them cache hits 341 (50.22%)
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Tracking 338 distinct input hashes that result in 240 distinct outputs (71.01%)
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: RAM used: 2.34 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.29%
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Shaders Compiled: 99
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Jobs assigned 99, completed 99 (100.00%)
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Average time worker was idle: 50.53 s
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Time job spent in pending queue: average 0.32 s, longest 1.95 s
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 1.28 s
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Job life time (pending + execution): average 1.18 s, max 2.87
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.63 s
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Jobs were issued in 99 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Average processing rate: 5.31 jobs/sec
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Total thread time: 66.68 s
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Total thread preprocess time: 3.86 s
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Percentage time preprocessing: 5.78%
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Effective parallelization: 3.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   23 times, average 0.78 sec, max 0.97 sec, min 0.59 sec)
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   23 times, average 0.78 sec, max 1.00 sec, min 0.62 sec)
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.76 sec, max 0.80 sec, min 0.72 sec)
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.97% of total time (compiled   23 times, average 0.78 sec, max 0.97 sec, min 0.59 sec)
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.87% of total time (compiled   23 times, average 0.78 sec, max 1.00 sec, min 0.62 sec)
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.16% of total time (compiled   13 times, average 0.67 sec, max 0.79 sec, min 0.58 sec)
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.54% of total time (compiled   13 times, average 0.44 sec, max 0.57 sec, min 0.36 sec)
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.36% of total time (compiled    2 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.03.09-13.23.37:726][ 83]LogShaderCompilers: Display: ================================================
+[2023.03.09-13.23.37:835][ 83]PIE: Server logged in
+[2023.03.09-13.23.37:836][ 83]PIE: Play in editor total start time 1 seconds.
+[2023.03.09-13.23.38:046][ 85]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2023.03.09-13.23.38:046][ 85]LogScript: Warning: Last function called:
+	/Game/FXVarietyPack/Blueprints/BP_ky_fireBall.BP_ky_fireBall_C.ExecuteUbergraph_BP_ky_fireBall
+
+[2023.03.09-13.23.40:070][203]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2037.946167
+[2023.03.09-13.23.40:070][203]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2037.946167
+[2023.03.09-13.23.43:188][390]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2023.121338
+[2023.03.09-13.23.43:188][390]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2023.121338
+[2023.03.09-13.23.43:288][396]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2022.67688
+[2023.03.09-13.23.44:171][449]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2020.6073
+[2023.03.09-13.23.46:040][561]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2031.216064
+[2023.03.09-13.23.46:040][561]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2031.216064
+[2023.03.09-13.23.46:055][562]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2026.579346
+[2023.03.09-13.23.47:240][633]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 1573.845825
+[2023.03.09-13.23.47:240][633]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 1573.845825
+[2023.03.09-13.23.47:240][633]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 1573.845825
+[2023.03.09-13.23.50:163][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.09-13.23.50:163][806]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BossLevel
+[2023.03.09-13.23.50:180][806]LogWorld: UWorld::CleanupWorld for BossLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.23.50:181][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.23.50:182][806]LogContentBundle: [Container: BossLevel] Deleting container.
+[2023.03.09-13.23.50:187][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.09-13.23.50:193][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.23.50:221][806]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-13.23.50:224][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.03.09-13.23.50:225][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.03.09-13.23.50:230][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.09-13.23.50:248][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.03.09-13.23.50:302][807]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.03.09-13.23.53:222][978]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.09-13.23.53:230][978]LogContentBundle: [Container: BossLevel] Generating Streaming for 0 Content Bundles.
+[2023.03.09-13.23.53:233][978]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.09-13.23.53:233][978]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.09-13.23.53:233][978]LogWorldPartition: Display: GetPartitionedActors took 48 us (total: 481 us)
+[2023.03.09-13.23.53:386][978]LogWorldPartition: Display: GenerateStreaming took 153 ms (total: 1.61 sec)
+[2023.03.09-13.23.53:387][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.09-13.23.53:387][978]PIE: New page: PIE session: BossLevel (9 mars 2023 15:23:53)
+[2023.03.09-13.23.53:387][978]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BossLevel
+[2023.03.09-13.23.53:406][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017488s)
+[2023.03.09-13.23.53:406][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BossLevel.BossLevel to /Game/Maps/UEDPIE_0_BossLevel.BossLevel (0.017511s)
+[2023.03.09-13.23.53:406][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.23.53:406][978]LogAIModule: Creating AISystem for world BossLevel
+[2023.03.09-13.23.53:406][978]LogWorldPartition: ULevel::OnLevelLoaded(BossLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.09-13.23.53:406][978]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.09-13.23.53:407][978]LogWorldPartition: UWorldPartition::Initialize(Asset=BossLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.09-13.23.53:410][978]LogContentBundle: [Container: BossLevel] Creating new contrainer.
+[2023.03.09-13.23.53:410][978]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 2.11 sec)
+[2023.03.09-13.23.53:410][978]LogPlayLevel: PIE: World Init took: (0.004838s)
+[2023.03.09-13.23.53:430][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.03.09-13.23.53:433][978]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.03.09-13.23.53:433][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.09-13.23.53:434][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.09-13.23.53:434][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.09-13.23.53:434][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.09-13.23.53:434][978]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.09-13.23.53:434][978]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.09-13.23.53:434][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.09-13.23.53:434][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.09-13.23.53:434][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.09-13.23.53:434][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.09-13.23.53:434][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.09-13.23.53:437][978]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.09-13.23.53:600][978]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.03.09-13.23.53:600][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.09-13.23.53:600][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.09-13.23.53:600][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.09-13.23.53:601][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.03.09-13.23.53:601][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.03.09-13.23.53:603][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.03.09-13.23.53:603][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.03.09-13.23.53:603][978]LogInit: FAudioDevice initialized.
+[2023.03.09-13.23.53:603][978]LogAudio: Display: Audio Device (ID: 11) registered with world 'BossLevel'.
+[2023.03.09-13.23.53:605][978]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.09-13.23.53:606][978]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 60) at 2023.03.09-14.23.53
+[2023.03.09-13.23.53:606][978]LogWorld: Bringing up level for play took: 0.000910
+[2023.03.09-13.23.53:608][978]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.03.09-13.23.53:610][978]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=660.000 Y=11850.000 Z=360.000
+[2023.03.09-13.23.53:610][978]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(39), CellsToLoad(0), CellsToUnload(0)
+[2023.03.09-13.23.53:610][978]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=660.000 Y=11850.000 Z=360.000,P=0.000000 Y=169.999999 R=-0.000000
+[2023.03.09-13.23.53:613][978]LogStreaming: Display: FlushAsyncLoading(-1): 124 QueuedPackages, 0 AsyncPackages
+[2023.03.09-13.23.53:783][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_1_2_0 encountered when not using actor folders
+[2023.03.09-13.23.53:783][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_1_3_0 encountered when not using actor folders
+[2023.03.09-13.23.53:783][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_0_3_0 encountered when not using actor folders
+[2023.03.09-13.23.53:783][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_0_2_0 encountered when not using actor folders
+[2023.03.09-13.23.53:789][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_0_0_0 encountered when not using actor folders
+[2023.03.09-13.23.53:789][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_0_1_0 encountered when not using actor folders
+[2023.03.09-13.23.53:789][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_1_0_0 encountered when not using actor folders
+[2023.03.09-13.23.53:789][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_1_1_0 encountered when not using actor folders
+[2023.03.09-13.23.53:793][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_2_0_0 encountered when not using actor folders
+[2023.03.09-13.23.53:793][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_3_1_0 encountered when not using actor folders
+[2023.03.09-13.23.53:793][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_2_1_0 encountered when not using actor folders
+[2023.03.09-13.23.53:793][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_3_0_0 encountered when not using actor folders
+[2023.03.09-13.23.53:819][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_3_2_0 encountered when not using actor folders
+[2023.03.09-13.23.53:819][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_2_3_0 encountered when not using actor folders
+[2023.03.09-13.23.53:819][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_2_2_0 encountered when not using actor folders
+[2023.03.09-13.23.53:819][978]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_3_3_0 encountered when not using actor folders
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/F/4X/M49SG7XXJANGXU4DIAP4PO.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/R7/RJY77DKGXAETYGRC1ZRDLP.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/O0/4S87489Q3YIK2FCUUT0N6Q.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/NH/J5Y633SCUZ0XF84KMPZKCM.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/H4/HAD1BCLDO41BI8AIF7PD0Q.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/6G/APMKQIT3KSPIQNJN1ARAO4.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/56/1AD8P9QH3YG6X7A2L278X3.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/4O/9K3733FZDH2Q14WWYNDUXX.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/SR/YKPS8T9DFIV1P45EVCXFEO.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/Q2/2S1Z3Q1D5BNSQ21JECVK3L.StaticMesh_BossLevel_HLOD0_Instancing_7 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/Q2/2S1Z3Q1D5BNSQ21JECVK3L.StaticMesh_BossLevel_HLOD0_Instancing_6 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/Q2/2S1Z3Q1D5BNSQ21JECVK3L.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/Q2/2S1Z3Q1D5BNSQ21JECVK3L.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/3X/FI1R6U9KTB08IH9AS54CNQ.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/TV/QM8A7G9H62DYN5YXLVMVW3.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/N0/GZZ124H2HF8TSDSVWG7NL0.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/MY/HTE0430FYHUW647QJA047Q.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:001][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/9M/2PWBIBOVM5OC5IPFBUU41Z.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/91/JJVIT2PZIJBZWI83UEWC4Z.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/B/VQ/NBDSPZPHXNP3W2N2DQC4OP.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/B/TG/039JC8VMKLE4UMQGDQA0M9.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/B/JN/XPEMVJD6KBPCFDF16KW4HP.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/YD/H8W6QRGAK41YAPPZPZ9GB8.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/J2/K8HXPLZW9XLGV138Y1A1QX.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/2H/VS0KZ73GKQWGL03QNNNUQX.StaticMesh_BossLevel_HLOD0_Instancing_7 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/2H/VS0KZ73GKQWGL03QNNNUQX.StaticMesh_BossLevel_HLOD0_Instancing_6 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/2H/VS0KZ73GKQWGL03QNNNUQX.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/2H/VS0KZ73GKQWGL03QNNNUQX.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/ZH/HZPSW1RCO7FTXRAJM8M7FN.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/OZ/8K9P511QQXKEVHO0BAJJEA.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/N4/AA3F491SKK69BCBDGJVS2P.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/1G/DCZNI3ZK1QEQBDN9G6X1NB.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/1E/KIRBO795KH8G1ZS4E9AFDX.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/Y4/THJUYWCLF6IQ0XA01FLPD8.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/UW/2J2R1KBIPDBKRP7PALB1KH.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/U0/FIJIMG5DR54M33YEUVX8HB.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/RM/F66RVZ0CMCGGOUBR4SJ89M.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/GO/SH74KQYC34BRU3C82ZL8NN.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/FB/9Z92308LAXIE0YOZYNMUOB.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/CR/XIMX2PK5P0G04FYTAS4DXS.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/8R/PQ565DFBVJQADZGJ175B3W.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/6/TB/JO4NO0QSXIN5JDU4OEY1FG.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/6/R2/VSYNII98QENIWEZMNBBCWH.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/6/2W/NQXL2IQGEWC6E9HS92FM1V.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/5/8L/YC4OZWNCQTTFSUPCLIWYBV.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/4/L2/TG99V6Q3FTE0UM4OAHAC30.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/4/K7/0KW7TA7MAI1R270YNEF9TN.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/4/3K/BFGHBUIDCPMSKCFIPMESA6.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/4/08/TU2G7PYC5TWW251I62RQ4U.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/3/UD/A4GPD7F9KISFJW2Z8E63ZK.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/3/U9/ERZ6JGHH2D991OJ1OH7WB9.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/3/BR/DJA5TJNDWLI7EX76QOZQNK.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/3/8Z/MQC4MI80WJVKG9920IWRHF.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/WR/Y7I54U4J150MS350DBMOYE.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/IS/9AHCLMHR4HC9KP8O24ULZ0.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/6C/4766G8PTV5LF38U6RGPN91.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/4N/ZKAWURX7ROTNRNHI2GAF2S.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/2C/N97UMJJBH9DGK5DRJ5FQ9K.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/VY/7NGP6WDF6C380DZH44N7EM.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/MG/61SFKP2YGMMR9DPI7FP5TF.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/KW/Q56ASYII87BF6SESMVHFW8.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/I4/OO8VVXMZIJ54ZNZL5RBROO.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/I4/OO8VVXMZIJ54ZNZL5RBROO.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/I4/OO8VVXMZIJ54ZNZL5RBROO.StaticMesh_BossLevel_HLOD0_Instancing_3 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/FV/FGPKTMDTM8D7RG0C6QOUTL.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/FV/FGPKTMDTM8D7RG0C6QOUTL.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/FV/FGPKTMDTM8D7RG0C6QOUTL.StaticMesh_BossLevel_HLOD0_Instancing_3 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/F2/MZI5O79CP6M7UFE9IO946P.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/CU/BXOZ8PL4X3GW03AE4VVYNN.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/ZK/WHNH78UN3FDQTNENI9J3MD.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/Y1/5XSX4E98GGRMW4YLOJ3O53.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/Y1/5XSX4E98GGRMW4YLOJ3O53.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/Y1/5XSX4E98GGRMW4YLOJ3O53.StaticMesh_BossLevel_HLOD0_Instancing_3 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/VD/4GLV5SCAC5ZX54E93X01Z4.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/VD/4GLV5SCAC5ZX54E93X01Z4.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/VD/4GLV5SCAC5ZX54E93X01Z4.StaticMesh_BossLevel_HLOD0_Instancing_3 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/TW/2WWXJGUR6MAICLQEBDWPYH.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:002][978]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/JM/Y3052KK8R3ODN55K6HHH1O.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.23.54:168][978]PIE: Server logged in
+[2023.03.09-13.23.54:168][978]PIE: Play in editor total start time 0,939 seconds.
+[2023.03.09-13.23.54:334][980]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2023.03.09-13.23.54:334][980]LogScript: Warning: Last function called:
+	/Game/FXVarietyPack/Blueprints/BP_ky_fireBall.BP_ky_fireBall_C.ExecuteUbergraph_BP_ky_fireBall
+
+[2023.03.09-13.23.57:449][165]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2033.263428
+[2023.03.09-13.23.57:449][165]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2033.263428
+[2023.03.09-13.24.00:082][323]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2025.954224
+[2023.03.09-13.24.00:082][323]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2025.954224
+[2023.03.09-13.24.00:248][333]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2012.348755
+[2023.03.09-13.24.02:016][439]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2026.06958
+[2023.03.09-13.24.02:016][439]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2026.06958
+[2023.03.09-13.24.04:317][577]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2025.290771
+[2023.03.09-13.24.04:317][577]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2025.290771
+[2023.03.09-13.24.04:317][577]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2025.290771
+[2023.03.09-13.24.05:298][636]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 999.270447
+[2023.03.09-13.24.08:158][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.09-13.24.08:158][805]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BossLevel
+[2023.03.09-13.24.08:175][805]LogWorld: UWorld::CleanupWorld for BossLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.24.08:175][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.24.08:175][805]LogContentBundle: [Container: BossLevel] Deleting container.
+[2023.03.09-13.24.08:181][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.09-13.24.08:187][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.24.08:214][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.09-13.24.08:216][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.03.09-13.24.08:218][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.03.09-13.24.08:241][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.03.09-13.24.08:295][806]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.03.09-13.24.19:389][450]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vcepbapga/S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1.S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1
+[2023.03.09-13.24.19:459][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.24.19:726][450]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.24.29:247][980]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Maps/BossLevel.BossLevel:PersistentLevel.RecastNavMesh_UAID_5081409ABB5FA76B01-Default).
+[2023.03.09-13.24.33:311][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.24.33:388][199]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vcepbapga/S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1
+[2023.03.09-13.24.33:388][199]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Huge_Canyon_Sandstone_Cliff_vcDACF7509447EE448130212B8F4D2A30D.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vcepbapga/S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1.uasset'
+[2023.03.09-13.24.33:395][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 5.59 sec)
+[2023.03.09-13.24.33:403][199]AssetCheck: New page: Asset Save: S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1
+[2023.03.09-13.24.33:403][199]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vcepbapga/S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1.S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1
+[2023.03.09-13.24.34:851][283]LogSlate: Window 'S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1' being destroyed
+[2023.03.09-13.24.34:941][283]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.24.34:941][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.24.42:273][705]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx/S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1.S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1
+[2023.03.09-13.24.42:350][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.24.42:619][705]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.24.47:629][981]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Maps/BossLevel.BossLevel:PersistentLevel.RecastNavMesh_UAID_5081409ABB5FA76B01-Default).
+[2023.03.09-13.24.50:856][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.24.50:939][151]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx/S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1
+[2023.03.09-13.24.50:939][151]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Huge_Canyon_Sandstone_Hoodoo_v80E8F84F4613659FE41AB48D0111F352.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx/S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1.uasset'
+[2023.03.09-13.24.50:947][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 5.68 sec)
+[2023.03.09-13.24.50:954][151]AssetCheck: New page: Asset Save: S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1
+[2023.03.09-13.24.50:954][151]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx/S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1.S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1
+[2023.03.09-13.24.59:110][622]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vcepbapga/S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1.S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1
+[2023.03.09-13.24.59:131][622]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.24.59:379][622]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.25.05:154][947]LogSlate: Window 'S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1' being destroyed
+[2023.03.09-13.25.05:159][947]LogSlate: Window 'S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1' being destroyed
+[2023.03.09-13.25.05:188][947]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.25.05:188][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.25.05:229][947]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.25.05:230][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.25.11:557][317]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Canyon_Sandstone_Boulder_ulccfbr/S_Canyon_Sandstone_Boulder_ulccfbr_lod3_Var1.S_Canyon_Sandstone_Boulder_ulccfbr_lod3_Var1
+[2023.03.09-13.25.11:634][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.25.11:906][317]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.25.18:556][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.25.18:659][699]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Canyon_Sandstone_Boulder_ulccfbr/S_Canyon_Sandstone_Boulder_ulccfbr_lod3_Var1
+[2023.03.09-13.25.18:661][699]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Canyon_Sandstone_Boulder_ulccfFC0FA7D445FFF215DB862484961BF19C.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Canyon_Sandstone_Boulder_ulccfbr/S_Canyon_Sandstone_Boulder_ulccfbr_lod3_Var1.uasset'
+[2023.03.09-13.25.18:669][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 5.79 sec)
+[2023.03.09-13.25.18:677][699]AssetCheck: New page: Asset Save: S_Canyon_Sandstone_Boulder_ulccfbr_lod3_Var1
+[2023.03.09-13.25.18:677][699]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Canyon_Sandstone_Boulder_ulccfbr/S_Canyon_Sandstone_Boulder_ulccfbr_lod3_Var1.S_Canyon_Sandstone_Boulder_ulccfbr_lod3_Var1
+[2023.03.09-13.25.19:862][770]LogSlate: Window 'S_Canyon_Sandstone_Boulder_ulccfbr_lod3_Var1' being destroyed
+[2023.03.09-13.25.19:867][770]LogSlate: Window 'S_Canyon_Sandstone_Boulder_ulccfbr_lod3_Var1' being destroyed
+[2023.03.09-13.25.19:934][770]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.25.19:934][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.25.22:981][946]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Canyon_Sandstone_Rock_Formation_uldubik/S_Canyon_Sandstone_Rock_Formation_uldubik_lod3.S_Canyon_Sandstone_Rock_Formation_uldubik_lod3
+[2023.03.09-13.25.23:057][946]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.25.23:328][946]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.25.29:585][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.25.29:688][298]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Canyon_Sandstone_Rock_Formation_uldubik/S_Canyon_Sandstone_Rock_Formation_uldubik_lod3
+[2023.03.09-13.25.29:689][298]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Canyon_Sandstone_Rock_Formatio9100DBA34E399F2C5447528B20A24FCA.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Canyon_Sandstone_Rock_Formation_uldubik/S_Canyon_Sandstone_Rock_Formation_uldubik_lod3.uasset'
+[2023.03.09-13.25.29:697][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 5.90 sec)
+[2023.03.09-13.25.29:705][298]AssetCheck: New page: Asset Save: S_Canyon_Sandstone_Rock_Formation_uldubik_lod3
+[2023.03.09-13.25.29:705][298]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Canyon_Sandstone_Rock_Formation_uldubik/S_Canyon_Sandstone_Rock_Formation_uldubik_lod3.S_Canyon_Sandstone_Rock_Formation_uldubik_lod3
+[2023.03.09-13.25.36:750][710]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Canyon_Sandstone_Rock_uk5seau/S_Canyon_Sandstone_Rock_uk5seau_lod3_Var1.S_Canyon_Sandstone_Rock_uk5seau_lod3_Var1
+[2023.03.09-13.25.36:771][710]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.25.37:016][710]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.25.39:283][841]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.25.39:283][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.25.40:469][911]LogSlate: Window 'S_Canyon_Sandstone_Rock_Formation_uldubik_lod3' being destroyed
+[2023.03.09-13.25.40:474][911]LogSlate: Window 'S_Canyon_Sandstone_Rock_Formation_uldubik_lod3' being destroyed
+[2023.03.09-13.25.40:502][911]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.25.40:503][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.25.44:052][114]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Canyon_Sandstone_Rocks_Pile_ulnfeaw/S_Canyon_Sandstone_Rocks_Pile_ulnfeaw_lod3_Var1.S_Canyon_Sandstone_Rocks_Pile_ulnfeaw_lod3_Var1
+[2023.03.09-13.25.44:127][114]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.25.44:402][114]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.25.49:800][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.25.49:902][429]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Canyon_Sandstone_Rocks_Pile_ulnfeaw/S_Canyon_Sandstone_Rocks_Pile_ulnfeaw_lod3_Var1
+[2023.03.09-13.25.49:902][429]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Canyon_Sandstone_Rocks_Pile_ul7555EB424DD70D0F4261BEBE78E05F14.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Canyon_Sandstone_Rocks_Pile_ulnfeaw/S_Canyon_Sandstone_Rocks_Pile_ulnfeaw_lod3_Var1.uasset'
+[2023.03.09-13.25.49:911][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 6.01 sec)
+[2023.03.09-13.25.49:918][429]AssetCheck: New page: Asset Save: S_Canyon_Sandstone_Rocks_Pile_ulnfeaw_lod3_Var1
+[2023.03.09-13.25.49:918][429]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Canyon_Sandstone_Rocks_Pile_ulnfeaw/S_Canyon_Sandstone_Rocks_Pile_ulnfeaw_lod3_Var1.S_Canyon_Sandstone_Rocks_Pile_ulnfeaw_lod3_Var1
+[2023.03.09-13.25.50:738][478]LogSlate: Window 'S_Canyon_Sandstone_Rocks_Pile_ulnfeaw_lod3_Var1' being destroyed
+[2023.03.09-13.25.50:742][478]LogSlate: Window 'S_Canyon_Sandstone_Rocks_Pile_ulnfeaw_lod3_Var1' being destroyed
+[2023.03.09-13.25.50:771][478]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.25.50:771][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.25.53:679][646]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga/S_Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga_lod3_Var1.S_Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga_lod3_Var1
+[2023.03.09-13.25.53:745][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.25.54:018][646]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.26.01:028][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.26.01:133][ 52]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga/S_Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga_lod3_Var1
+[2023.03.09-13.26.01:134][ 52]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Gigantic_Canyon_Sandstone_Hood855149A847825A5CB41F979484B5541D.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga/S_Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga_lod3_Var1.uasset'
+[2023.03.09-13.26.01:141][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 6.13 sec)
+[2023.03.09-13.26.01:149][ 52]AssetCheck: New page: Asset Save: S_Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga_lod3_Var1
+[2023.03.09-13.26.01:149][ 52]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga/S_Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga_lod3_Var1.S_Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga_lod3_Var1
+[2023.03.09-13.26.11:942][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.26.12:027][691]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga/S_Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga_lod3_Var1
+[2023.03.09-13.26.12:028][691]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Gigantic_Canyon_Sandstone_HoodE21104604F70D88C79605081F4C692E6.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga/S_Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga_lod3_Var1.uasset'
+[2023.03.09-13.26.12:035][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 6.22 sec)
+[2023.03.09-13.26.12:042][691]AssetCheck: New page: Asset Save: S_Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga_lod3_Var1
+[2023.03.09-13.26.12:042][691]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga/S_Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga_lod3_Var1.S_Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga_lod3_Var1
+[2023.03.09-13.26.12:288][706]LogDerivedDataCache: C:/Users/micka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.286 and deleted 0 files with total size 0 MiB. Scanned 14037 files in 13655 folders with total size 1212 MiB.
+[2023.03.09-13.26.13:314][765]LogSlate: Window 'S_Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga_lod3_Var1' being destroyed
+[2023.03.09-13.26.13:327][765]LogSlate: Window 'S_Gigantic_Canyon_Sandstone_Hoodoo_vj2mecuga_lod3_Var1' being destroyed
+[2023.03.09-13.26.13:357][765]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.26.13:358][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.26.16:409][938]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vb1macxfa/S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1.S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1
+[2023.03.09-13.26.16:490][938]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.26.16:758][938]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.26.24:628][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.26.24:710][393]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vb1macxfa/S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1
+[2023.03.09-13.26.24:710][393]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Huge_Canyon_Sandstone_Cliff_vb6F1195CE4AB212F4B488088D991C11BD.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vb1macxfa/S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1.uasset'
+[2023.03.09-13.26.24:718][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 6.31 sec)
+[2023.03.09-13.26.24:726][393]AssetCheck: New page: Asset Save: S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1
+[2023.03.09-13.26.24:726][393]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vb1macxfa/S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1.S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1
+[2023.03.09-13.26.26:133][470]LogSlate: Window 'S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1' being destroyed
+[2023.03.09-13.26.26:138][470]LogSlate: Window 'S_Huge_Canyon_Sandstone_Cliff_vb1macxfa_lod3_Var1' being destroyed
+[2023.03.09-13.26.26:167][470]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.26.26:167][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.26.30:245][708]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vcepbapga/S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1.S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1
+[2023.03.09-13.26.30:314][708]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.26.30:590][708]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.26.33:544][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.26.33:629][853]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vcepbapga/S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1
+[2023.03.09-13.26.33:630][853]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Huge_Canyon_Sandstone_Cliff_vcB27D222441E9D1B7FDDB7E9A8227BFDA.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vcepbapga/S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1.uasset'
+[2023.03.09-13.26.33:637][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 6.40 sec)
+[2023.03.09-13.26.33:644][853]AssetCheck: New page: Asset Save: S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1
+[2023.03.09-13.26.33:644][853]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vcepbapga/S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1.S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1
+[2023.03.09-13.26.34:647][906]LogSlate: Window 'S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1' being destroyed
+[2023.03.09-13.26.34:651][906]LogSlate: Window 'S_Huge_Canyon_Sandstone_Cliff_vcepbapga_lod3_Var1' being destroyed
+[2023.03.09-13.26.34:680][906]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.26.34:680][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.26.40:622][252]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx/S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1.S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1
+[2023.03.09-13.26.40:697][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.26.40:965][252]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.26.45:100][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.26.45:182][469]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx/S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1
+[2023.03.09-13.26.45:183][469]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Huge_Canyon_Sandstone_Hoodoo_vCD3283F441029AC21D640AB95895BE8E.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx/S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1.uasset'
+[2023.03.09-13.26.45:192][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 6.49 sec)
+[2023.03.09-13.26.45:199][469]AssetCheck: New page: Asset Save: S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1
+[2023.03.09-13.26.45:199][469]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx/S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1.S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1
+[2023.03.09-13.26.46:384][530]LogSlate: Window 'S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1' being destroyed
+[2023.03.09-13.26.46:389][530]LogSlate: Window 'S_Huge_Canyon_Sandstone_Hoodoo_vixjcdiqx_lod3_Var1' being destroyed
+[2023.03.09-13.26.46:419][530]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.26.46:419][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.26.50:116][741]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Hoodoo_vjjlbdsqx/S_Huge_Canyon_Sandstone_Hoodoo_vjjlbdsqx_lod3_Var1.S_Huge_Canyon_Sandstone_Hoodoo_vjjlbdsqx_lod3_Var1
+[2023.03.09-13.26.50:192][741]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.26.50:463][741]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.26.52:297][847]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Maps/BossLevel.BossLevel:PersistentLevel.RecastNavMesh_UAID_5081409ABB5FA76B01-Default).
+[2023.03.09-13.26.54:488][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.26.54:564][951]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Hoodoo_vjjlbdsqx/S_Huge_Canyon_Sandstone_Hoodoo_vjjlbdsqx_lod3_Var1
+[2023.03.09-13.26.54:565][951]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Huge_Canyon_Sandstone_Hoodoo_v728FFF5F422CE2B1A63096A0BA57CACA.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Huge_Canyon_Sandstone_Hoodoo_vjjlbdsqx/S_Huge_Canyon_Sandstone_Hoodoo_vjjlbdsqx_lod3_Var1.uasset'
+[2023.03.09-13.26.54:572][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 6.58 sec)
+[2023.03.09-13.26.54:581][951]AssetCheck: New page: Asset Save: S_Huge_Canyon_Sandstone_Hoodoo_vjjlbdsqx_lod3_Var1
+[2023.03.09-13.26.54:581][951]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Hoodoo_vjjlbdsqx/S_Huge_Canyon_Sandstone_Hoodoo_vjjlbdsqx_lod3_Var1.S_Huge_Canyon_Sandstone_Hoodoo_vjjlbdsqx_lod3_Var1
+[2023.03.09-13.26.56:161][ 42]LogSlate: Window 'S_Huge_Canyon_Sandstone_Hoodoo_vjjlbdsqx_lod3_Var1' being destroyed
+[2023.03.09-13.26.56:166][ 42]LogSlate: Window 'S_Huge_Canyon_Sandstone_Hoodoo_vjjlbdsqx_lod3_Var1' being destroyed
+[2023.03.09-13.26.56:233][ 42]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.26.56:233][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.27.00:105][265]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Spire_vemoefu/S_Huge_Canyon_Sandstone_Spire_vemoefu_lod3.S_Huge_Canyon_Sandstone_Spire_vemoefu_lod3
+[2023.03.09-13.27.00:184][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.27.00:457][265]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.27.03:564][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.27.03:653][439]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Spire_vemoefu/S_Huge_Canyon_Sandstone_Spire_vemoefu_lod3
+[2023.03.09-13.27.03:654][439]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Huge_Canyon_Sandstone_Spire_ve52AB13EF43B04903E4BA1C9FF952F8DD.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Huge_Canyon_Sandstone_Spire_vemoefu/S_Huge_Canyon_Sandstone_Spire_vemoefu_lod3.uasset'
+[2023.03.09-13.27.03:661][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 6.68 sec)
+[2023.03.09-13.27.03:671][439]AssetCheck: New page: Asset Save: S_Huge_Canyon_Sandstone_Spire_vemoefu_lod3
+[2023.03.09-13.27.03:671][439]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Spire_vemoefu/S_Huge_Canyon_Sandstone_Spire_vemoefu_lod3.S_Huge_Canyon_Sandstone_Spire_vemoefu_lod3
+[2023.03.09-13.27.04:522][489]LogSlate: Window 'S_Huge_Canyon_Sandstone_Spire_vemoefu_lod3' being destroyed
+[2023.03.09-13.27.04:526][489]LogSlate: Window 'S_Huge_Canyon_Sandstone_Spire_vemoefu_lod3' being destroyed
+[2023.03.09-13.27.04:554][489]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.27.04:554][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.27.07:699][667]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Massive_Canyon_Sandstone_Cliff_vjqhcapga/S_Massive_Canyon_Sandstone_Cliff_vjqhcapga_lod3_Var1.S_Massive_Canyon_Sandstone_Cliff_vjqhcapga_lod3_Var1
+[2023.03.09-13.27.07:769][667]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.27.08:041][667]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.27.09:295][733]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Maps/BossLevel.BossLevel:PersistentLevel.RecastNavMesh_UAID_5081409ABB5FA76B01-Default).
+[2023.03.09-13.27.28:253][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.27.28:334][818]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Massive_Canyon_Sandstone_Cliff_vjqhcapga/S_Massive_Canyon_Sandstone_Cliff_vjqhcapga_lod3_Var1
+[2023.03.09-13.27.28:335][818]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Massive_Canyon_Sandstone_Cliff3B65A1804B4D8C075AA2F88F7F4C4488.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Massive_Canyon_Sandstone_Cliff_vjqhcapga/S_Massive_Canyon_Sandstone_Cliff_vjqhcapga_lod3_Var1.uasset'
+[2023.03.09-13.27.28:342][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 6.77 sec)
+[2023.03.09-13.27.28:351][818]AssetCheck: New page: Asset Save: S_Massive_Canyon_Sandstone_Cliff_vjqhcapga_lod3_Var1
+[2023.03.09-13.27.28:351][818]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Massive_Canyon_Sandstone_Cliff_vjqhcapga/S_Massive_Canyon_Sandstone_Cliff_vjqhcapga_lod3_Var1.S_Massive_Canyon_Sandstone_Cliff_vjqhcapga_lod3_Var1
+[2023.03.09-13.27.29:836][901]LogSlate: Window 'S_Massive_Canyon_Sandstone_Cliff_vjqhcapga_lod3_Var1' being destroyed
+[2023.03.09-13.27.29:841][901]LogSlate: Window 'S_Massive_Canyon_Sandstone_Cliff_vjqhcapga_lod3_Var1' being destroyed
+[2023.03.09-13.27.29:870][901]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.27.29:870][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.27.35:136][209]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vennei3/S_Massive_Canyon_Sandstone_Hoodoo_vennei3_lod3.S_Massive_Canyon_Sandstone_Hoodoo_vennei3_lod3
+[2023.03.09-13.27.35:212][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.27.35:493][209]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.28.08:017][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.03.09-13.28.08:025][126]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/BossLevel' took 0.048
+[2023.03.09-13.28.34:494][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.28.34:577][679]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vennei3/S_Massive_Canyon_Sandstone_Hoodoo_vennei3_lod3
+[2023.03.09-13.28.34:577][679]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Massive_Canyon_Sandstone_HoodoD41FCB454DA5558D84917F81C436BA52.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vennei3/S_Massive_Canyon_Sandstone_Hoodoo_vennei3_lod3.uasset'
+[2023.03.09-13.28.34:586][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 6.86 sec)
+[2023.03.09-13.28.34:594][679]AssetCheck: New page: Asset Save: S_Massive_Canyon_Sandstone_Hoodoo_vennei3_lod3
+[2023.03.09-13.28.34:594][679]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vennei3/S_Massive_Canyon_Sandstone_Hoodoo_vennei3_lod3.S_Massive_Canyon_Sandstone_Hoodoo_vennei3_lod3
+[2023.03.09-13.28.38:447][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.28.38:529][908]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vennei3/S_Massive_Canyon_Sandstone_Hoodoo_vennei3_lod3
+[2023.03.09-13.28.38:530][908]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Massive_Canyon_Sandstone_Hoodo6D07A1E8448AD076C244B3A8A77DD24D.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vennei3/S_Massive_Canyon_Sandstone_Hoodoo_vennei3_lod3.uasset'
+[2023.03.09-13.28.38:536][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 6.95 sec)
+[2023.03.09-13.28.38:544][908]AssetCheck: New page: Asset Save: S_Massive_Canyon_Sandstone_Hoodoo_vennei3_lod3
+[2023.03.09-13.28.38:544][908]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vennei3/S_Massive_Canyon_Sandstone_Hoodoo_vennei3_lod3.S_Massive_Canyon_Sandstone_Hoodoo_vennei3_lod3
+[2023.03.09-13.28.39:345][956]LogSlate: Window 'S_Massive_Canyon_Sandstone_Hoodoo_vennei3_lod3' being destroyed
+[2023.03.09-13.28.39:350][956]LogSlate: Window 'S_Massive_Canyon_Sandstone_Hoodoo_vennei3_lod3' being destroyed
+[2023.03.09-13.28.39:379][956]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.28.39:379][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.28.42:644][143]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vh3oagiga/S_Massive_Canyon_Sandstone_Hoodoo_vh3oagiga_lod3_Var1.S_Massive_Canyon_Sandstone_Hoodoo_vh3oagiga_lod3_Var1
+[2023.03.09-13.28.42:720][143]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.28.42:993][143]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.28.44:341][220]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Maps/BossLevel.BossLevel:PersistentLevel.RecastNavMesh_UAID_5081409ABB5FA76B01-Default).
+[2023.03.09-13.29.28:855][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.29.28:935][795]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vh3oagiga/S_Massive_Canyon_Sandstone_Hoodoo_vh3oagiga_lod3_Var1
+[2023.03.09-13.29.28:936][795]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Massive_Canyon_Sandstone_Hoodo495F68274F59B7E00DDBB796AA511E98.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vh3oagiga/S_Massive_Canyon_Sandstone_Hoodoo_vh3oagiga_lod3_Var1.uasset'
+[2023.03.09-13.29.28:956][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 7.05 sec)
+[2023.03.09-13.29.28:965][795]AssetCheck: New page: Asset Save: S_Massive_Canyon_Sandstone_Hoodoo_vh3oagiga_lod3_Var1
+[2023.03.09-13.29.28:965][795]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vh3oagiga/S_Massive_Canyon_Sandstone_Hoodoo_vh3oagiga_lod3_Var1.S_Massive_Canyon_Sandstone_Hoodoo_vh3oagiga_lod3_Var1
+[2023.03.09-13.29.30:163][866]LogSlate: Window 'S_Massive_Canyon_Sandstone_Hoodoo_vh3oagiga_lod3_Var1' being destroyed
+[2023.03.09-13.29.30:179][866]LogSlate: Window 'S_Massive_Canyon_Sandstone_Hoodoo_vh3oagiga_lod3_Var1' being destroyed
+[2023.03.09-13.29.30:208][866]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.29.30:208][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.29.33:132][ 33]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vjqiaa2qx/S_Massive_Canyon_Sandstone_Hoodoo_vjqiaa2qx_lod3_Var1.S_Massive_Canyon_Sandstone_Hoodoo_vjqiaa2qx_lod3_Var1
+[2023.03.09-13.29.33:207][ 33]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.29.33:480][ 33]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.03.09-13.29.36:511][196]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Maps/BossLevel.BossLevel:PersistentLevel.RecastNavMesh_UAID_5081409ABB5FA76B01-Default).
+[2023.03.09-13.29.39:700][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.29.39:787][362]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vjqiaa2qx/S_Massive_Canyon_Sandstone_Hoodoo_vjqiaa2qx_lod3_Var1
+[2023.03.09-13.29.39:787][362]LogSavePackage: Moving '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/S_Massive_Canyon_Sandstone_Hoodo9ACB46A5497CF1A94EEB1B9677133109.tmp' to '../../../../../../Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vjqiaa2qx/S_Massive_Canyon_Sandstone_Hoodoo_vjqiaa2qx_lod3_Var1.uasset'
+[2023.03.09-13.29.39:793][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 7.14 sec)
+[2023.03.09-13.29.39:801][362]AssetCheck: New page: Asset Save: S_Massive_Canyon_Sandstone_Hoodoo_vjqiaa2qx_lod3_Var1
+[2023.03.09-13.29.39:801][362]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Massive_Canyon_Sandstone_Hoodoo_vjqiaa2qx/S_Massive_Canyon_Sandstone_Hoodoo_vjqiaa2qx_lod3_Var1.S_Massive_Canyon_Sandstone_Hoodoo_vjqiaa2qx_lod3_Var1
+[2023.03.09-13.29.41:141][437]LogSlate: Window 'S_Massive_Canyon_Sandstone_Hoodoo_vjqiaa2qx_lod3_Var1' being destroyed
+[2023.03.09-13.29.41:145][437]LogSlate: Window 'S_Massive_Canyon_Sandstone_Hoodoo_vjqiaa2qx_lod3_Var1' being destroyed
+[2023.03.09-13.29.41:174][437]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.29.41:174][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.29.46:398][746]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.09-13.29.46:405][746]LogContentBundle: [Container: BossLevel] Generating Streaming for 0 Content Bundles.
+[2023.03.09-13.29.46:409][746]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.09-13.29.46:409][746]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.09-13.29.46:409][746]LogWorldPartition: Display: GetPartitionedActors took 48 us (total: 530 us)
+[2023.03.09-13.29.46:565][746]LogWorldPartition: Display: GenerateStreaming took 157 ms (total: 1.77 sec)
+[2023.03.09-13.29.46:566][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.09-13.29.46:566][746]PIE: New page: PIE session: BossLevel (9 mars 2023 15:29:46)
+[2023.03.09-13.29.46:589][746]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BossLevel
+[2023.03.09-13.29.46:607][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016969s)
+[2023.03.09-13.29.46:607][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BossLevel.BossLevel to /Game/Maps/UEDPIE_0_BossLevel.BossLevel (0.017007s)
+[2023.03.09-13.29.46:607][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.09-13.29.46:607][746]LogAIModule: Creating AISystem for world BossLevel
+[2023.03.09-13.29.46:607][746]LogWorldPartition: ULevel::OnLevelLoaded(BossLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.09-13.29.46:607][746]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.09-13.29.46:607][746]LogWorldPartition: UWorldPartition::Initialize(Asset=BossLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.09-13.29.46:612][746]LogContentBundle: [Container: BossLevel] Creating new contrainer.
+[2023.03.09-13.29.46:612][746]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 2.11 sec)
+[2023.03.09-13.29.46:612][746]LogPlayLevel: PIE: World Init took: (0.004990s)
+[2023.03.09-13.29.46:637][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.03.09-13.29.46:643][746]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.03.09-13.29.46:643][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.09-13.29.46:643][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.09-13.29.46:643][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.09-13.29.46:643][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.09-13.29.46:643][746]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.09-13.29.46:643][746]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.09-13.29.46:643][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.09-13.29.46:643][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.09-13.29.46:643][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.09-13.29.46:644][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.09-13.29.46:644][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.09-13.29.46:646][746]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.09-13.29.46:809][746]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.03.09-13.29.46:809][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.09-13.29.46:809][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.09-13.29.46:809][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.09-13.29.46:809][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.03.09-13.29.46:809][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.03.09-13.29.46:812][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.03.09-13.29.46:812][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.03.09-13.29.46:812][746]LogInit: FAudioDevice initialized.
+[2023.03.09-13.29.46:812][746]LogAudio: Display: Audio Device (ID: 12) registered with world 'BossLevel'.
+[2023.03.09-13.29.46:817][746]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.09-13.29.46:818][746]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BossLevel.BossLevel up for play (max tick rate 60) at 2023.03.09-14.29.46
+[2023.03.09-13.29.46:819][746]LogWorld: Bringing up level for play took: 0.001038
+[2023.03.09-13.29.46:823][746]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.03.09-13.29.46:824][746]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=660.000 Y=11850.000 Z=360.000
+[2023.03.09-13.29.46:824][746]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(39), CellsToLoad(0), CellsToUnload(0)
+[2023.03.09-13.29.46:824][746]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=660.000 Y=11850.000 Z=360.000,P=0.000000 Y=169.999999 R=-0.000000
+[2023.03.09-13.29.46:828][746]LogStreaming: Display: FlushAsyncLoading(-1): 124 QueuedPackages, 0 AsyncPackages
+[2023.03.09-13.29.47:003][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_1_2_0 encountered when not using actor folders
+[2023.03.09-13.29.47:003][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_1_3_0 encountered when not using actor folders
+[2023.03.09-13.29.47:003][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_0_3_0 encountered when not using actor folders
+[2023.03.09-13.29.47:003][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_0_2_0 encountered when not using actor folders
+[2023.03.09-13.29.47:010][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_0_0_0 encountered when not using actor folders
+[2023.03.09-13.29.47:010][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_0_1_0 encountered when not using actor folders
+[2023.03.09-13.29.47:010][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_1_0_0 encountered when not using actor folders
+[2023.03.09-13.29.47:010][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_1_1_0 encountered when not using actor folders
+[2023.03.09-13.29.47:014][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_2_0_0 encountered when not using actor folders
+[2023.03.09-13.29.47:014][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_3_1_0 encountered when not using actor folders
+[2023.03.09-13.29.47:014][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_2_1_0 encountered when not using actor folders
+[2023.03.09-13.29.47:014][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_3_0_0 encountered when not using actor folders
+[2023.03.09-13.29.47:043][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_3_2_0 encountered when not using actor folders
+[2023.03.09-13.29.47:043][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_2_3_0 encountered when not using actor folders
+[2023.03.09-13.29.47:043][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_2_2_0 encountered when not using actor folders
+[2023.03.09-13.29.47:043][746]LogActor: Warning: Actor folder 68385E434B10BCDF89F3F991D47FE5F2 for actor LandscapeStreamingProxy_AKO4QNBEKXYT337UZ5C3YNVJ5_126_3_3_0 encountered when not using actor folders
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/F/4X/M49SG7XXJANGXU4DIAP4PO.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/R7/RJY77DKGXAETYGRC1ZRDLP.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/O0/4S87489Q3YIK2FCUUT0N6Q.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/NH/J5Y633SCUZ0XF84KMPZKCM.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/H4/HAD1BCLDO41BI8AIF7PD0Q.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/6G/APMKQIT3KSPIQNJN1ARAO4.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/56/1AD8P9QH3YG6X7A2L278X3.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/E/4O/9K3733FZDH2Q14WWYNDUXX.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/SR/YKPS8T9DFIV1P45EVCXFEO.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/Q2/2S1Z3Q1D5BNSQ21JECVK3L.StaticMesh_BossLevel_HLOD0_Instancing_7 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/Q2/2S1Z3Q1D5BNSQ21JECVK3L.StaticMesh_BossLevel_HLOD0_Instancing_6 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/Q2/2S1Z3Q1D5BNSQ21JECVK3L.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/Q2/2S1Z3Q1D5BNSQ21JECVK3L.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/D/3X/FI1R6U9KTB08IH9AS54CNQ.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/TV/QM8A7G9H62DYN5YXLVMVW3.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/N0/GZZ124H2HF8TSDSVWG7NL0.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/MY/HTE0430FYHUW647QJA047Q.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/9M/2PWBIBOVM5OC5IPFBUU41Z.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/C/91/JJVIT2PZIJBZWI83UEWC4Z.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/B/VQ/NBDSPZPHXNP3W2N2DQC4OP.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/B/TG/039JC8VMKLE4UMQGDQA0M9.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/B/JN/XPEMVJD6KBPCFDF16KW4HP.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/YD/H8W6QRGAK41YAPPZPZ9GB8.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/J2/K8HXPLZW9XLGV138Y1A1QX.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/2H/VS0KZ73GKQWGL03QNNNUQX.StaticMesh_BossLevel_HLOD0_Instancing_7 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/2H/VS0KZ73GKQWGL03QNNNUQX.StaticMesh_BossLevel_HLOD0_Instancing_6 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/2H/VS0KZ73GKQWGL03QNNNUQX.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/9/2H/VS0KZ73GKQWGL03QNNNUQX.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/ZH/HZPSW1RCO7FTXRAJM8M7FN.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/OZ/8K9P511QQXKEVHO0BAJJEA.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/N4/AA3F491SKK69BCBDGJVS2P.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/1G/DCZNI3ZK1QEQBDN9G6X1NB.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/8/1E/KIRBO795KH8G1ZS4E9AFDX.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/Y4/THJUYWCLF6IQ0XA01FLPD8.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/UW/2J2R1KBIPDBKRP7PALB1KH.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/U0/FIJIMG5DR54M33YEUVX8HB.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/RM/F66RVZ0CMCGGOUBR4SJ89M.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/GO/SH74KQYC34BRU3C82ZL8NN.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/FB/9Z92308LAXIE0YOZYNMUOB.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/CR/XIMX2PK5P0G04FYTAS4DXS.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/7/8R/PQ565DFBVJQADZGJ175B3W.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/6/TB/JO4NO0QSXIN5JDU4OEY1FG.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/6/R2/VSYNII98QENIWEZMNBBCWH.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/6/2W/NQXL2IQGEWC6E9HS92FM1V.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/5/8L/YC4OZWNCQTTFSUPCLIWYBV.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/4/L2/TG99V6Q3FTE0UM4OAHAC30.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/4/K7/0KW7TA7MAI1R270YNEF9TN.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/4/3K/BFGHBUIDCPMSKCFIPMESA6.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/4/08/TU2G7PYC5TWW251I62RQ4U.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/3/UD/A4GPD7F9KISFJW2Z8E63ZK.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/3/U9/ERZ6JGHH2D991OJ1OH7WB9.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/3/BR/DJA5TJNDWLI7EX76QOZQNK.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/3/8Z/MQC4MI80WJVKG9920IWRHF.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/WR/Y7I54U4J150MS350DBMOYE.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/IS/9AHCLMHR4HC9KP8O24ULZ0.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/6C/4766G8PTV5LF38U6RGPN91.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/4N/ZKAWURX7ROTNRNHI2GAF2S.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/2/2C/N97UMJJBH9DGK5DRJ5FQ9K.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/VY/7NGP6WDF6C380DZH44N7EM.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/MG/61SFKP2YGMMR9DPI7FP5TF.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/KW/Q56ASYII87BF6SESMVHFW8.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/I4/OO8VVXMZIJ54ZNZL5RBROO.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/I4/OO8VVXMZIJ54ZNZL5RBROO.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/I4/OO8VVXMZIJ54ZNZL5RBROO.StaticMesh_BossLevel_HLOD0_Instancing_3 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/FV/FGPKTMDTM8D7RG0C6QOUTL.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/FV/FGPKTMDTM8D7RG0C6QOUTL.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/FV/FGPKTMDTM8D7RG0C6QOUTL.StaticMesh_BossLevel_HLOD0_Instancing_3 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/F2/MZI5O79CP6M7UFE9IO946P.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/1/CU/BXOZ8PL4X3GW03AE4VVYNN.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/ZK/WHNH78UN3FDQTNENI9J3MD.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/Y1/5XSX4E98GGRMW4YLOJ3O53.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/Y1/5XSX4E98GGRMW4YLOJ3O53.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/Y1/5XSX4E98GGRMW4YLOJ3O53.StaticMesh_BossLevel_HLOD0_Instancing_3 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/VD/4GLV5SCAC5ZX54E93X01Z4.StaticMesh_BossLevel_HLOD0_Instancing_5 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/VD/4GLV5SCAC5ZX54E93X01Z4.StaticMesh_BossLevel_HLOD0_Instancing_4 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/VD/4GLV5SCAC5ZX54E93X01Z4.StaticMesh_BossLevel_HLOD0_Instancing_3 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/TW/2WWXJGUR6MAICLQEBDWPYH.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:228][746]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/BossLevel/0/JM/Y3052KK8R3ODN55K6HHH1O.StaticMesh_BossLevel_HLOD0_Instancing_1 being ready before playing
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: ================================================
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Total job queries 708, among them cache hits 370 (52.26%)
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Tracking 338 distinct input hashes that result in 240 distinct outputs (71.01%)
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: RAM used: 2.34 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.29%
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Shaders Compiled: 99
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Jobs assigned 99, completed 99 (100.00%)
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Average time worker was idle: 50.53 s
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Time job spent in pending queue: average 0.32 s, longest 1.95 s
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 1.28 s
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Job life time (pending + execution): average 1.18 s, max 2.87
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.63 s
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Jobs were issued in 99 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Average processing rate: 5.31 jobs/sec
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Total thread time: 66.68 s
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Total thread preprocess time: 3.86 s
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Percentage time preprocessing: 5.78%
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Effective parallelization: 3.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   23 times, average 0.78 sec, max 0.97 sec, min 0.59 sec)
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   23 times, average 0.78 sec, max 1.00 sec, min 0.62 sec)
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.76 sec, max 0.80 sec, min 0.72 sec)
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.97% of total time (compiled   23 times, average 0.78 sec, max 0.97 sec, min 0.59 sec)
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.87% of total time (compiled   23 times, average 0.78 sec, max 1.00 sec, min 0.62 sec)
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.16% of total time (compiled   13 times, average 0.67 sec, max 0.79 sec, min 0.58 sec)
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.54% of total time (compiled   13 times, average 0.44 sec, max 0.57 sec, min 0.36 sec)
+[2023.03.09-13.29.47:308][746]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.36% of total time (compiled    2 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.03.09-13.29.47:310][746]LogShaderCompilers: Display: ================================================
+[2023.03.09-13.29.47:419][746]PIE: Server logged in
+[2023.03.09-13.29.47:419][746]PIE: Play in editor total start time 1,014 seconds.
+[2023.03.09-13.29.47:646][748]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2023.03.09-13.29.47:646][748]LogScript: Warning: Last function called:
+	/Game/FXVarietyPack/Blueprints/BP_ky_fireBall.BP_ky_fireBall_C.ExecuteUbergraph_BP_ky_fireBall
+
+[2023.03.09-13.29.51:612][984]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2031.504883
+[2023.03.09-13.29.51:612][984]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2031.504883
+[2023.03.09-13.29.51:661][987]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2031.27124
+[2023.03.09-13.29.51:844][998]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2023.228882
+[2023.03.09-13.29.55:028][189]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 1258.661987
+[2023.03.09-13.29.55:028][189]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 1258.661987
+[2023.03.09-13.29.55:028][189]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 1258.661987
+[2023.03.09-13.29.55:595][223]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2103.076904
+[2023.03.09-13.29.55:595][223]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2103.076904
+[2023.03.09-13.29.57:256][322]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2023.826904
+[2023.03.09-13.29.57:256][322]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2023.826904
+[2023.03.09-13.30.01:089][552]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2032.981079
+[2023.03.09-13.30.01:089][552]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2032.981079
+[2023.03.09-13.30.04:607][763]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2032.302368
+[2023.03.09-13.30.04:607][763]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2032.302368
+[2023.03.09-13.30.07:272][923]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2022.014526
+[2023.03.09-13.30.07:272][923]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2022.014526
+[2023.03.09-13.30.07:355][928]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2046.654907
+[2023.03.09-13.30.09:322][ 46]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2019.313965
+[2023.03.09-13.30.09:322][ 46]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2019.313965
+[2023.03.09-13.30.09:338][ 47]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 2021.738403
+[2023.03.09-13.30.10:923][142]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 1559.691772
+[2023.03.09-13.30.10:923][142]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 1559.691772
+[2023.03.09-13.30.10:923][142]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 1559.691772
+[2023.03.09-13.30.13:155][276]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 1646.847534
+[2023.03.09-13.30.13:155][276]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 1646.847534
+[2023.03.09-13.30.13:155][276]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 1646.847534
+[2023.03.09-13.30.14:471][355]LogBlueprintUserMessages: [DragonAI_BP_C_UAID_5081409ABB5FA76B01_1489911543] 1770.470093
+[2023.03.09-13.30.15:018][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.09-13.30.15:018][386]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BossLevel
+[2023.03.09-13.30.15:036][386]LogWorld: UWorld::CleanupWorld for BossLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.09-13.30.15:036][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.30.15:036][386]LogContentBundle: [Container: BossLevel] Deleting container.
+[2023.03.09-13.30.15:041][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.09-13.30.15:047][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.30.15:075][386]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.09-13.30.15:078][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.03.09-13.30.15:079][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.03.09-13.30.15:085][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.09-13.30.15:102][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.03.09-13.30.15:154][387]LogPlayLevel: Display: Destroying online subsystem :Context_46
