@@ -1,6 +1,0 @@
-2023/03/09-09:25:29.889 4658 Creating DB C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
-2023/03/09-09:25:29.893 4658 Reusing MANIFEST C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/09-09:26:49.424 20b0 Level-0 table #5: started
-2023/03/09-09:26:49.426 20b0 Level-0 table #5: 8200 bytes OK
-2023/03/09-09:26:49.427 20b0 Delete type=0 #3
-2023/03/09-09:26:49.428 20b0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
