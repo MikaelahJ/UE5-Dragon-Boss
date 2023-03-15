@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/0/I4/OXR9DI0MP5ES1BYVGSKW5V.uasset",
+				"D:/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/7/RC/4FIRPJZR70XC4MT4P3664F.uasset",
+				"D:/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/4/UU/00OQFSICK45G8RN3O9V0D8.uasset",
+				"D:/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/7/2X/BQ39QX5PBIVF9GPM9N6FS6.uasset",
+				"D:/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/9/UK/2J4PYGHDTXYRJYJP9D3QVP.uasset",
+				"D:/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/9/9O/TAR8U7IS4DTBVOKOIU85F0.uasset"
+			]
+		}
+	]
+}
