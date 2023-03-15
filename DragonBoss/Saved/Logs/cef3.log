@@ -1,0 +1,27 @@
+[0315/190227.020:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0315/190229.296:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0315/190229.297:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0315/190229.297:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0315/190229.297:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0315/190229.297:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0315/190229.297:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0315/190229.298:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0315/190229.298:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0315/190229.298:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0315/190229.298:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0315/190229.298:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0315/190229.298:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0315/190229.298:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0315/190236.948:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0315/190236.948:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0315/190236.948:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0315/190236.948:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0315/190236.948:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0315/190236.948:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0315/190236.948:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0315/190236.948:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0315/190236.948:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0315/190236.948:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0315/190236.948:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0315/190236.948:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0315/190236.948:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
