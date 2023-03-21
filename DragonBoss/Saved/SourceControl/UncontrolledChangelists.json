@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/BluePrints/DragonAI_BP.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/UI/HUD_Widget.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/UI/MainMenu_Widget.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/6/2T/MPRCT0BCVY03W7FXH88MXM.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/BluePrints/HealPool_BP.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/BluePrints/Lightning_BP.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/8/RQ/XIKPRLG8T9VJO3PRJZ2ZVX.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/BluePrints/HealPoolSpawner_BP.uasset",
+				"C:/Users/micka/OneDrive/Dokument/GitHub/UE5-Dragon-Boss/DragonBoss/Content/__ExternalActors__/Maps/BossLevel/2/PA/2OGUKGN780IBPSWFRPA2N8.uasset"
+			]
+		}
+	]
+}
